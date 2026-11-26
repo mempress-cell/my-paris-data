@@ -1,0 +1,179 @@
+
+[
+  {
+    "id": 1,
+    "name": "Eiffel Tower",
+    "description": "The Eiffel Tower is a famous landmark in Paris.",
+    "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/eiffel_tower.jpg",
+    "spots": [
+      {
+        "id": 101,
+        "placeId": 1,
+        "name": "20 Eiffel",
+        "category": "Restaurant",
+        "description": "A cozy French bistro serving traditional dishes near the Eiffel Tower.",
+        "address": "20 Rue de Monttessuy, 75007 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_101.jpg"
+      },
+      {
+        "id": 102,
+        "placeId": 1,
+        "name": "Arnaud Nicolas",
+        "category": "Restaurant",
+        "description": "A modern French restaurant known for its refined meat dishes.",
+        "address": "46 Avenue de la Bourdonnais, 75007 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_102.jpg"
+      },
+      {
+        "id": 103,
+        "placeId": 1,
+        "name": "Ardén",
+        "category": "Cafe",
+        "description": "A coffee shop near the Eiffel Tower, ideal for a relaxing break.",
+        "address": "124 Rue Saint-Dominique, 75007 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_103.jpg"
+      },
+      {
+        "id": 104,
+        "placeId": 1,
+        "name": "Constant. Café",
+        "category": "Cafe",
+        "description": "A neighborhood coffee shop offering coffee and pastries.",
+        "address": "3 Rue Augereau, 75007 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_104.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Louvre Museum",
+    "description": "The Louvre is a famous art museum in Paris.",
+    "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/louvre_museum.jpg",
+    "spots": [
+      {
+        "id": 201,
+        "placeId": 2,
+        "name": "Brasserie du Louvre",
+        "category": "Restaurant",
+        "description": "A classic French brasserie located near the Louvre Museum.",
+        "address": "1 Place André Malraux, 75001 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_201.jpg"
+      },
+      {
+        "id": 202,
+        "placeId": 2,
+        "name": "Le Nemours",
+        "category": "Restaurant",
+        "description": "A traditional Parisian brasserie with outdoor seating.",
+        "address": "2 Place Colette, 75001 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_202.jpg"
+      },
+      {
+        "id": 203,
+        "placeId": 2,
+        "name": "Café Verlet",
+        "category": "Cafe",
+        "description": "A historic Parisian coffee house known for coffee and tea.",
+        "address": "256 Rue Saint-Honoré, 75001 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_203.jpg"
+      },
+      {
+        "id": 204,
+        "placeId": 2,
+        "name": "Terres de Café",
+        "category": "Cafe",
+        "description": "A specialty coffee shop close to the Louvre Museum.",
+        "address": "150 Rue Saint-Honoré, 75001 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_204.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Arc de Triomphe",
+    "description": "The Arc de Triomphe is a historic monument in Paris.",
+    "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/arc_de_triomphe.jpeg",
+    "spots": [
+      {
+        "id": 301,
+        "placeId": 3,
+        "name": "Brasserie Naï",
+        "category": "Restaurant",
+        "description": "A Parisian brasserie serving French and Lebanese dishes.",
+        "address": "8 Avenue de la Grande Armée, 75017 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_301.jpg"
+      },
+      {
+        "id": 302,
+        "placeId": 3,
+        "name": "Le Fouquet's",
+        "category": "Restaurant",
+        "description": "A famous Parisian brasserie on the Champs-Élysées.",
+        "address": "99 Avenue des Champs-Élysées, 75008 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_302.jpg"
+      },
+      {
+        "id": 303,
+        "placeId": 3,
+        "name": "Ladurée Champs-Élysées",
+        "category": "Cafe",
+        "description": "An elegant tea room famous for French macarons.",
+        "address": "75 Avenue des Champs-Élysées, 75008 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_303.jpg"
+      },
+      {
+        "id": 304,
+        "placeId": 3,
+        "name": "Café Joyeux Champs-Élysées",
+        "category": "Cafe",
+        "description": "A welcoming cafe serving coffee and light snacks.",
+        "address": "144 Avenue des Champs-Élysées, 75008 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_304.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Notre-Dame",
+    "description": "Notre-Dame is a historic cathedral in Paris.",
+    "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/notre_dame.jpg",
+    "spots": [
+      {
+        "id": 401,
+        "placeId": 4,
+        "name": "Le Grenier de Notre-Dame",
+        "category": "Restaurant",
+        "description": "A vegetarian restaurant near Notre-Dame Cathedral.",
+        "address": "18 Rue de la Bûcherie, 75005 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_401.jpg"
+      },
+      {
+        "id": 402,
+        "placeId": 4,
+        "name": "Bistro des Livres",
+        "category": "Restaurant",
+        "description": "A cozy French bistro with a literary atmosphere.",
+        "address": "44 Rue Galande, 75005 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_402.jpg"
+      },
+      {
+        "id": 403,
+        "placeId": 4,
+        "name": "Shakespeare and Company Café",
+        "category": "Cafe",
+        "description": "A charming cafe beside the famous Shakespeare and Company bookshop.",
+        "address": "37 Rue de la Bûcherie, 75005 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_403.jpg"
+      },
+      {
+        "id": 404,
+        "placeId": 4,
+        "name": "JOZI CAFE Notre Dame",
+        "category": "Cafe",
+        "description": "A cozy coffee shop serving coffee and pastries.",
+        "address": "67 Quai de la Tournelle, 75005 Paris",
+        "img_src": "https://raw.githubusercontent.com/mempress-cell/my-paris-data/main/shop_404.jpg"
+      }
+    ]
+  }
+]
